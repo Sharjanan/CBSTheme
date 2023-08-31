@@ -20,7 +20,7 @@
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/best-hair-clippers-beard-trimmers-1646044194.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 60,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
